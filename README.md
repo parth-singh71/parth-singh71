@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on [yolov5](https://github.com/ultralytics/yolov5)
 
-- 💬 Ask me about **Keras**, **Django** and **Flutter**
+- 💬 Ask me about **Tensorflow**, **Django** and **Flutter**
 
 - 📫 How to reach me **parth.singh71@gmail.com**
 
