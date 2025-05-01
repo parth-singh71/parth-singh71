@@ -8,7 +8,8 @@
   />
 </p>
 
-- 👨‍💻 I'm proficient in **Python**, **Generative AI**, **Agentic AI**, and **Backend Development** using **Django** and **Django REST Framework**
+- 👨‍💻 I'm proficient in **Python**, **AI/ML**, **Generative AI**, **Agentic AI**, and **Backend Development**
+- 🧰 I've worked extensively with popular frameworks like **LangChain**, **LangGraph** **Django** and **Django REST Framework**.
 - 🌱 I'm currently working on improving my **time management** and deepening my understanding of **AI workflows**
 - 💬 Ask me about **Generative AI**, **Django**, **Django REST Framework**, and **Python**
 - 💞️ I'm open to collaborating on **AI-powered applications**, especially those involving intelligent agents.
